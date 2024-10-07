@@ -124,3 +124,13 @@ int main() {
 
     return 0;
 }
+
+//Output
+Menu Options:
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+Enter value to delete: 32
+List is empty.
